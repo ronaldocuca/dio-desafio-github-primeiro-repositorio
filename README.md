@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# Repositório de estudos
 Desafio de estudos sobre Git/GItHub
